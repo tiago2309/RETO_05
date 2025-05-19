@@ -10,7 +10,7 @@ Desarrollo de cada uno de los retos 05
   - Cono:
    ![Fórmula](https://latex.codecogs.com/svg.image?&space;V_{cono}=\frac{1}{3}\pi&space;r_{2}{^2}h)
   - Volumen total:
-  ![Fórmula](https://latex.codecogs.com/svg.image?&space;V_{TOTAL}=\frac{4}{3}\pi&space;r_{1}{^3}&plus;\frac{1}{3}\pi&space;r_{2}{^2}h)
+  ![Fórmula](https://latex.codecogs.com/svg.image?&space;V_{TOTAL}=\frac{4}{3}\pi&space;r_{1}{^3}+\frac{1}{3}\pi&space;r_{2}{^2}h)
 
 **Áreas**
   - Esfera:
